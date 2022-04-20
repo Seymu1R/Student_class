@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\bin\Debug\netcoreapp3.1\Studen_Class.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Student_Class\Studen_Class\Studen_Class\obj\Debug\netcoreapp3.1\Studen_Class.genruntimeconfig.cache
